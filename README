@@ -1,0 +1,9 @@
+Name: Shelf Share
+Version: 0
+Author: Erin Madsen
+Email: erin.a.madsen@gmail.com
+Date: January, 2012
+
+DESCRIPTION:
+Shelf Share is a web app for easily importing, organizing and sharing your paper books. Shelf Share requires PHP 5.3+, MySQL 5+ and some understanding of PHP for customization. 
+
